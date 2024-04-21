@@ -36,10 +36,10 @@ const getNotes = () =>
     }
   });
 
-// note = {
-//   title: noteTitle.value,
-//   text: noteText.value
-// };
+note = {
+  title: noteTitle.value,
+  text: noteText.value
+};
 
 const saveNote = (note) =>
   fetch('/api/notes', {

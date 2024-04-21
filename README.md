@@ -29,7 +29,7 @@
 
   ## Test
   The following link will take you to my application: <br>
- <a href="https://benravandi.github.io/PasswordGeneratorApp/">Visit MyNoteTakerApp!</a>
+ <a href="https://floating-bastion-21651-e2432fb654df.herokuapp.com/notes">Visit MyNoteTakerApp!</a>
 
   ## Questions
   - GitHub: [BenRavandi](https://github.com/BenRavandi)
